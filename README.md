@@ -9,10 +9,10 @@
 
 ### Tools
 > ![git](    https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+> ![vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
 
 
-
-
+https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E
 <!--
 **MhmmadArul/MhmmadArul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
